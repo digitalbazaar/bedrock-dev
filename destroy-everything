@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+#
+# Sets up the development environment for Bedrock
+
+# Collect a list of all of the repositories
+NPM_REPOS=`cat package.json | sed -n "/cloneRepos/,/\},/p" | head -n-1 | tail -n+2 | tr -d '"' | tr -d ',' | tr -d ' '`
+BOWER_REPOS=`cat bower.json | sed -n "/cloneRepos/,/\},/p" | head -n-1 | tail -n+2 | tr -d '"' | tr -d ',' | tr -d ' '`
+
+# Clone all of the repositories
+echo -n "Deleting all repositories..."
+for line in $NPM_REPOS $BOWER_REPOS;
+do
+  REPO_NAME=`echo $line | cut -f1 -d:`
+  REPO_URL=`echo $line | cut -f2- -d: | cut -f1 -d#`
+  
+  echo -n "."
+  rm -rf $REPO_NAME
+done
+echo "done."
+
+# Remove node_modules
+echo "Removing node_modules/ ..."
+rm -rf node_modules
+
+# Remove bower_components
+echo "Removing bower_components/ ..."
+rm -rf bower_components
+
+echo "Destruction complete. Try ./setup if you are a sad panda."
