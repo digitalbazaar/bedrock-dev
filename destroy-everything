@@ -2,6 +2,18 @@
 #
 # Sets up the development environment for Bedrock
 
+# Be damn sure
+echo "***************************************************************"
+echo "You are about to delete all git repositories in this directory."
+echo "***************************************************************"
+echo
+read -p "Are you sure? (enter: 'do it *fist crush*' to proceed) " -r
+echo    # (optional) move to a new line
+if [ "$REPLY" != "do it *fist crush*" ]; then
+  echo "DELETING EVERYTHING! Just kidding. Stay in school, kids."
+  exit 0
+fi
+
 # Collect a list of all of the repositories
 NPM_REPOS=`cat package.json | sed -n "/cloneRepos/,/\},/p" | head -n-1 | tail -n+2 | tr -d '"' | tr -d ',' | tr -d ' '`
 BOWER_REPOS=`cat bower.json | sed -n "/cloneRepos/,/\},/p" | head -n-1 | tail -n+2 | tr -d '"' | tr -d ',' | tr -d ' '`
@@ -19,11 +31,11 @@ done
 echo "done."
 
 # Remove node_modules
-echo "Removing node_modules/ ..."
+echo "Removing node_modules/"
 rm -rf node_modules
 
 # Remove bower_components
-echo "Removing bower_components/ ..."
+echo "Removing bower_components/"
 rm -rf bower_components
 
-echo "Destruction complete. Try ./setup if you are a sad panda."
+echo "Destruction complete. Try ./setup if this made you a sad panda."
