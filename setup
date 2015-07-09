@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#
+# Sets up the development environment for Bedrock
+
+echo "IMPLEMENT ME"
