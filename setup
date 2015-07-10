@@ -55,4 +55,4 @@ echo "done."
 # Compile less
 nodejs ./index.js compile-less
 
-echo "Setup complete, try this: nodejs ./index.js"
+echo -e "\nSetup complete, try this: nodejs index.js"
