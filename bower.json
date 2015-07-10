@@ -27,7 +27,6 @@
     "bedrock-angular": "https://github.com/digitalbazaar/bedrock-angular#master",
     "bedrock-angular-alert": "https://github.com/digitalbazaar/bedrock-angular-alert#master",
     "bedrock-angular-credential": "https://github.com/digitalbazaar/bedrock-angular-credential#master",
-    "bedrock-angular-credentials-rest": "https://github.com/digitalbazaar/bedrock-angular-credentials-rest#master",
     "bedrock-angular-filters": "https://github.com/digitalbazaar/bedrock-angular-filters#master",
     "bedrock-angular-form": "https://github.com/digitalbazaar/bedrock-angular-form#master",
     "bedrock-angular-identity": "https://github.com/digitalbazaar/bedrock-angular-identity#master",
@@ -38,6 +37,7 @@
     "bedrock-angular-resource": "https://github.com/digitalbazaar/bedrock-angular-resource#master",
     "bedrock-angular-selector": "https://github.com/digitalbazaar/bedrock-angular-selector#master",
     "bedrock-angular-ui": "https://github.com/digitalbazaar/bedrock-angular-ui#master",
+    "bedrock-credentials-rest": "https://github.com/digitalbazaar/bedrock-credentials-rest#master",
     "bedrock-idp": "https://github.com/digitalbazaar/bedrock-idp#master",
     "opencred-verifier": "https://github.com/digitalbazaar/opencred-verifier#master"
   },
