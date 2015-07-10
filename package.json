@@ -18,6 +18,8 @@
   },
   "cloneRepos": {
     "bedrock": "https://github.com/digitalbazaar/bedrock#master",
+    "bedrock-credential-curator": "https://github.com/digitalbazaar/bedrock-credential-curator#master",
+    "bedrock-credentials-mongodb": "https://github.com/digitalbazaar/bedrock-credentials-mongodb#master",
     "bedrock-docs": "https://github.com/digitalbazaar/bedrock-docs#master",
     "bedrock-express": "https://github.com/digitalbazaar/bedrock-express#master",
     "bedrock-i18n": "https://github.com/digitalbazaar/bedrock-i18n#master",

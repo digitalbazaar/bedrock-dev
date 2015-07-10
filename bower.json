@@ -26,9 +26,12 @@
   "cloneRepos": {
     "bedrock-angular": "https://github.com/digitalbazaar/bedrock-angular#master",
     "bedrock-angular-alert": "https://github.com/digitalbazaar/bedrock-angular-alert#master",
+    "bedrock-angular-credential": "https://github.com/digitalbazaar/bedrock-angular-credential#master",
+    "bedrock-angular-credentials-rest": "https://github.com/digitalbazaar/bedrock-angular-credentials-rest#master",
     "bedrock-angular-filters": "https://github.com/digitalbazaar/bedrock-angular-filters#master",
     "bedrock-angular-form": "https://github.com/digitalbazaar/bedrock-angular-form#master",
     "bedrock-angular-identity": "https://github.com/digitalbazaar/bedrock-angular-identity#master",
+    "bedrock-angular-identity-composer": "https://github.com/digitalbazaar/bedrock-angular-identity-composer#master",
     "bedrock-angular-lazy-compile": "https://github.com/digitalbazaar/bedrock-angular-lazy-compile#master",
     "bedrock-angular-modal": "https://github.com/digitalbazaar/bedrock-angular-modal#master",
     "bedrock-angular-model": "https://github.com/digitalbazaar/bedrock-angular-model#master",
