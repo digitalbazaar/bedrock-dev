@@ -38,7 +38,7 @@
     "bedrock-angular-selector": "https://github.com/digitalbazaar/bedrock-angular-selector#master",
     "bedrock-angular-ui": "https://github.com/digitalbazaar/bedrock-angular-ui#master",
     "bedrock-credentials-rest": "https://github.com/digitalbazaar/bedrock-credentials-rest#master",
-    "bedrock-idp": "https://github.com/digitalbazaar/bedrock-idp#master",
+    "bedrock-idp": "https://github.com/digitalbazaar/bedrock-idp#2.x",
     "opencred-verifier": "https://github.com/digitalbazaar/opencred-verifier#master"
   },
   "resolutions": {
