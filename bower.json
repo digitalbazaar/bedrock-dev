@@ -24,22 +24,22 @@
     "underscore": "~1.7.0"
   },
   "cloneRepos": {
-    "bedrock-angular": "https://github.com/digitalbazaar/bedrock-angular#master",
-    "bedrock-angular-alert": "https://github.com/digitalbazaar/bedrock-angular-alert#master",
-    "bedrock-angular-credential": "https://github.com/digitalbazaar/bedrock-angular-credential#master",
-    "bedrock-angular-filters": "https://github.com/digitalbazaar/bedrock-angular-filters#master",
-    "bedrock-angular-form": "https://github.com/digitalbazaar/bedrock-angular-form#master",
-    "bedrock-angular-identity-composer": "https://github.com/digitalbazaar/bedrock-angular-identity-composer#master",
-    "bedrock-angular-lazy-compile": "https://github.com/digitalbazaar/bedrock-angular-lazy-compile#master",
-    "bedrock-angular-modal": "https://github.com/digitalbazaar/bedrock-angular-modal#master",
-    "bedrock-angular-model": "https://github.com/digitalbazaar/bedrock-angular-model#master",
-    "bedrock-angular-resource": "https://github.com/digitalbazaar/bedrock-angular-resource#master",
-    "bedrock-angular-selector": "https://github.com/digitalbazaar/bedrock-angular-selector#master",
-    "bedrock-angular-ui": "https://github.com/digitalbazaar/bedrock-angular-ui#master",
-    "bedrock-credential-curator": "https://github.com/digitalbazaar/bedrock-credential-curator#master",
-    "bedrock-credentials-rest": "https://github.com/digitalbazaar/bedrock-credentials-rest#master",
-    "bedrock-idp": "https://github.com/digitalbazaar/bedrock-idp#2.x",
-    "opencred-verifier": "https://github.com/digitalbazaar/opencred-verifier#master"
+    "bedrock-angular": "git@github.com:digitalbazaar/bedrock-angular#master",
+    "bedrock-angular-alert": "git@github.com:digitalbazaar/bedrock-angular-alert#master",
+    "bedrock-angular-credential": "git@github.com:digitalbazaar/bedrock-angular-credential#master",
+    "bedrock-angular-filters": "git@github.com:digitalbazaar/bedrock-angular-filters#master",
+    "bedrock-angular-form": "git@github.com:digitalbazaar/bedrock-angular-form#master",
+    "bedrock-angular-identity-composer": "git@github.com:digitalbazaar/bedrock-angular-identity-composer#master",
+    "bedrock-angular-lazy-compile": "git@github.com:digitalbazaar/bedrock-angular-lazy-compile#master",
+    "bedrock-angular-modal": "git@github.com:digitalbazaar/bedrock-angular-modal#master",
+    "bedrock-angular-model": "git@github.com:digitalbazaar/bedrock-angular-model#master",
+    "bedrock-angular-resource": "git@github.com:digitalbazaar/bedrock-angular-resource#master",
+    "bedrock-angular-selector": "git@github.com:digitalbazaar/bedrock-angular-selector#master",
+    "bedrock-angular-ui": "git@github.com:digitalbazaar/bedrock-angular-ui#master",
+    "bedrock-credential-curator": "git@github.com:digitalbazaar/bedrock-credential-curator#master",
+    "bedrock-credentials-rest": "git@github.com:digitalbazaar/bedrock-credentials-rest#master",
+    "bedrock-idp": "git@github.com:digitalbazaar/bedrock-idp#2.x",
+    "opencred-verifier": "git@github.com:digitalbazaar/opencred-verifier#master"
   },
   "resolutions": {
     "angular": "~1.3.15"
