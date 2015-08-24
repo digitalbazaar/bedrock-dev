@@ -27,6 +27,7 @@
     "bedrock-i18n": "git@github.com:digitalbazaar/bedrock-i18n#master",
     "bedrock-identity": "git@github.com:digitalbazaar/bedrock-identity#2.x",
     "bedrock-idp": "git@github.com:digitalbazaar/bedrock-idp#2.x",
+    "bedrock-issuer": "git@github.com:digitalbazaar/bedrock-issuer#master",
     "bedrock-jobs": "git@github.com:digitalbazaar/bedrock-jobs#master",
     "bedrock-mail": "git@github.com:digitalbazaar/bedrock-mail#master",
     "bedrock-mongodb": "git@github.com:digitalbazaar/bedrock-mongodb#master",
