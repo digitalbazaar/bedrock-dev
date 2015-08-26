@@ -21,7 +21,8 @@
     "ng-multi-transclude": "~0.1.5",
     "opencred-verifier": "~0.0.6",
     "requirejs": "~2.1.15",
-    "underscore": "~1.7.0"
+    "underscore": "~1.7.0",
+    "node-uuid": "~1.4.3"
   },
   "cloneRepos": {
     "bedrock-angular": "git@github.com:digitalbazaar/bedrock-angular#master",
