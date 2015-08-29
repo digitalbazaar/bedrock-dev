@@ -53,6 +53,6 @@ cd ..
 echo "done."
 
 # Compile less
-nodejs ./index.js compile-less
+node ./index.js compile-less
 
 echo -e "\nSetup complete, try this: nodejs index.js"
