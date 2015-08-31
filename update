@@ -6,7 +6,13 @@
 NPM_REPOS=`cat package.json | sed -n "/cloneRepos/,/\},/p" | head -n-1 | tail -n+2 | tr -d '"' | tr -d ',' | tr -d ' '`
 BOWER_REPOS=`cat bower.json | sed -n "/cloneRepos/,/\},/p" | head -n-1 | tail -n+2 | tr -d '"' | tr -d ',' | tr -d ' '`
 
-# Clone all of the repositories
+# Update the current repository
+echo -e "\nUpdating bedrock-dev..."
+git pull -q --rebase
+npm install
+./node_modules/.bin/bower install
+
+# Update all of the repositories
 for line in $NPM_REPOS $BOWER_REPOS;
 do
   REPO_NAME=`echo $line | cut -f1 -d:`
