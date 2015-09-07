@@ -35,6 +35,7 @@
     "bedrock-protractor": "git@github.com:digitalbazaar/bedrock-protractor#master",
     "bedrock-request-limiter": "git@github.com:digitalbazaar/bedrock-request-limiter#master",
     "bedrock-requirejs": "git@github.com:digitalbazaar/bedrock-requirejs#master",
+    "bedrock-redis": "git@github.com:digitalbazaar/digitalbazaar/bedrock-redis#master",
     "bedrock-rest": "git@github.com:digitalbazaar/bedrock-rest#master",
     "bedrock-server": "git@github.com:digitalbazaar/bedrock-server#master",
     "bedrock-session-mongodb": "git@github.com:digitalbazaar/bedrock-session-mongodb#master",
