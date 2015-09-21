@@ -3,8 +3,8 @@
 # Sets up the development environment for Bedrock
 
 # Collect a list of all of the repositories
-NPM_REPOS=`cat package.json | sed -n "/cloneRepos/,/\},/p" | head -n-1 | tail -n+2 | tr -d '"' | tr -d ',' | tr -d ' '`
-BOWER_REPOS=`cat bower.json | sed -n "/cloneRepos/,/\},/p" | head -n-1 | tail -n+2 | tr -d '"' | tr -d ',' | tr -d ' '`
+NPM_REPOS=`cat package.json | sed -n "/cloneRepos/,/\},/p" | sed '$d' | tail -n+2 | tr -d '"' | tr -d ',' | tr -d ' '`
+BOWER_REPOS=`cat bower.json | sed -n "/cloneRepos/,/\},/p" | sed '$d' | tail -n+2 | tr -d '"' | tr -d ',' | tr -d ' '`
 
 # Clone all of the repositories
 echo -n "Cloning all repositories..."
