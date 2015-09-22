@@ -14,7 +14,7 @@
     "url": "git@github.com:digitalbazaar/bedrock-dev"
   },
   "dependencies": {
-    "bower": "~1.4.1"
+    "bower": "~1.5.2"
   },
   "cloneRepos": {
     "bedrock": "git@github.com:digitalbazaar/bedrock#master",
