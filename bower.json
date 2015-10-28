@@ -36,6 +36,7 @@
     "bedrock-angular-model": "git@github.com:digitalbazaar/bedrock-angular-model#master",
     "bedrock-angular-resource": "git@github.com:digitalbazaar/bedrock-angular-resource#master",
     "bedrock-angular-selector": "git@github.com:digitalbazaar/bedrock-angular-selector#master",
+    "bedrock-angular-session": "git@github.com:digitalbazaar/bedrock-angular-session#master",
     "bedrock-angular-ui": "git@github.com:digitalbazaar/bedrock-angular-ui#master",
     "bedrock-credential-curator": "git@github.com:digitalbazaar/bedrock-credential-curator#master",
     "bedrock-credentials-rest": "git@github.com:digitalbazaar/bedrock-credentials-rest#master",
