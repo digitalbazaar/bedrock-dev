@@ -34,6 +34,7 @@
     "bedrock-angular-lazy-compile": "git@github.com:digitalbazaar/bedrock-angular-lazy-compile#master",
     "bedrock-angular-modal": "git@github.com:digitalbazaar/bedrock-angular-modal#master",
     "bedrock-angular-model": "git@github.com:digitalbazaar/bedrock-angular-model#master",
+    "bedrock-angular-navbar": "git@github.com:digitalbazaar/bedrock-angular-navbar#master",
     "bedrock-angular-resource": "git@github.com:digitalbazaar/bedrock-angular-resource#master",
     "bedrock-angular-selector": "git@github.com:digitalbazaar/bedrock-angular-selector#master",
     "bedrock-angular-session": "git@github.com:digitalbazaar/bedrock-angular-session#master",
