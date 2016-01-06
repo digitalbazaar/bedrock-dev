@@ -22,6 +22,7 @@
     "bedrock-credential-curator": "git@github.com:digitalbazaar/bedrock-credential-curator#master",
     "bedrock-credentials-mongodb": "git@github.com:digitalbazaar/bedrock-credentials-mongodb#master",
     "bedrock-docs": "git@github.com:digitalbazaar/bedrock-docs#master",
+    "bedrock-event-log": "git@github.com:digitalbazaar/bedrock-event-log#master",
     "bedrock-express": "git@github.com:digitalbazaar/bedrock-express#master",
     "bedrock-i18n": "git@github.com:digitalbazaar/bedrock-i18n#master",
     "bedrock-identity": "git@github.com:digitalbazaar/bedrock-identity#master",
