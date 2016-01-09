@@ -30,6 +30,7 @@
     "bedrock-issuer": "git@github.com:digitalbazaar/bedrock-issuer#master",
     "bedrock-jobs": "git@github.com:digitalbazaar/bedrock-jobs#master",
     "bedrock-key": "git@github.com:digitalbazaar/bedrock-key#master",
+    "bedrock-key-http": "git@github.com:digitalbazaar/bedrock-key-http.git#master",
     "bedrock-mail": "git@github.com:digitalbazaar/bedrock-mail#master",
     "bedrock-messages": "git@github.com:digitalbazaar/bedrock-messages#master",
     "bedrock-messages-client": "git@github.com:digitalbazaar/bedrock-messages#master",
