@@ -12,7 +12,6 @@ for line in $NPM_REPOS $BOWER_REPOS;
 do
   REPO_NAME=`echo $line | cut -f1 -d:`
   REPO_URL=`echo $line | cut -f2- -d: | cut -f1 -d#`
-  
   if [ ! -d $REPO_NAME ]; then
     echo -n "."
     git clone -q $REPO_URL $REPO_NAME
@@ -33,10 +32,24 @@ cd node_modules
 for line in $NPM_REPOS;
 do
   REPO_NAME=`echo $line | cut -f1 -d:`
-  echo -e "\nLinking and building $REPO_NAME..."
+  REPO_BRANCH=`echo $line | cut -f2 -d#`
+  echo -e "\nLinking $REPO_NAME ($REPO_BRANCH)..."
   ln -sf ../$REPO_NAME $REPO_NAME
   cd $REPO_NAME 
-  npm install 
+  git checkout -q $REPO_BRANCH
+  cd ..
+done
+cd ..
+
+# npm install in each repository
+cd node_modules
+for line in $NPM_REPOS;
+do
+  REPO_NAME=`echo $line | cut -f1 -d:`
+  REPO_BRANCH=`echo $line | cut -f2 -d#`
+  echo -e "\nInstalling $REPO_NAME ($REPO_BRANCH)..."
+  cd $REPO_NAME 
+  npm update 
   cd ..
 done
 cd ..
