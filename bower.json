@@ -22,7 +22,8 @@
     "opencred-verifier": "~0.0.6",
     "requirejs": "~2.1.15",
     "underscore": "~1.7.0",
-    "node-uuid": "~1.4.3"
+    "node-uuid": "~1.4.3",
+    "lodash": "^4.1.0"
   },
   "cloneRepos": {
     "bedrock-angular": "git@github.com:digitalbazaar/bedrock-angular#master",
