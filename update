@@ -24,4 +24,4 @@ do
 done
 echo "done."
 
-echo "Update complete. Try this: nodejs ./index.js"
+echo "Update complete. Try this: node ./index.js"
