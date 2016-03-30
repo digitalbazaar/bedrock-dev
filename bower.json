@@ -4,12 +4,12 @@
   "private": true,
   "description": "Bedrock developer dependencies.",
   "dependencies": {
-    "angular": "~1.3.15",
-    "angular-animate": "~1.3.15",
+    "angular": "~1.3.20",
+    "angular-animate": "~1.3.20",
     "angular-bootstrap": "~0.12.0",
     "angular-file-upload": "~1.1.5",
-    "angular-route": "~1.3.15",
-    "angular-sanitize": "~1.3.15",
+    "angular-route": "~1.3.20",
+    "angular-sanitize": "~1.3.20",
     "angular-stackables": "~0.0.30",
     "angular-ui-select": "git@github.com:digitalbazaar/ui-select.git#allow-lazy-compile-dist",
     "bootstrap": "~3.3.4",
@@ -17,12 +17,11 @@
     "font-awesome": "~4.3.0",
     "forge": "~0.6.30",
     "jquery": "~1.11.1",
-    "jsonld": "^0.4.2",
+    "jsonld": "~0.4.2",
     "ng-multi-transclude": "~0.1.5",
     "opencred-verifier": "~0.0.6",
-    "requirejs": "~2.1.15",
-    "underscore": "~1.7.0",
-    "node-uuid": "~1.4.3",
+    "requirejs": "^2.1.15",
+    "node-uuid": "^1.4.3",
     "lodash": "^4.1.0"
   },
   "cloneRepos": {
@@ -39,6 +38,7 @@
     "bedrock-angular-modal": "git@github.com:digitalbazaar/bedrock-angular-modal#master",
     "bedrock-angular-model": "git@github.com:digitalbazaar/bedrock-angular-model#master",
     "bedrock-angular-navbar": "git@github.com:digitalbazaar/bedrock-angular-navbar#master",
+    "bedrock-angular-paging": "git@github.com:digitalbazaar/bedrock-angular-paging#master",
     "bedrock-angular-resolver": "git@github.com:digitalbazaar/bedrock-angular-resolver#master",
     "bedrock-angular-resource": "git@github.com:digitalbazaar/bedrock-angular-resource#master",
     "bedrock-angular-selector": "git@github.com:digitalbazaar/bedrock-angular-selector#master",
@@ -50,6 +50,6 @@
     "opencred-verifier": "git@github.com:digitalbazaar/opencred-verifier#master"
   },
   "resolutions": {
-    "angular": "~1.3.15"
+    "angular": "~1.3.20"
   }
 }
