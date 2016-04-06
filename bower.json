@@ -30,6 +30,7 @@
     "bedrock-angular-authn": "git@github.com:digitalbazaar/bedrock-angular-authn#master",
     "bedrock-angular-credential": "git@github.com:digitalbazaar/bedrock-angular-credential#master",
     "bedrock-angular-filters": "git@github.com:digitalbazaar/bedrock-angular-filters#master",
+    "bedrock-angular-footer": "git@github.com:digitalbazaar/bedrock-angular-footer.git",
     "bedrock-angular-form": "git@github.com:digitalbazaar/bedrock-angular-form#master",
     "bedrock-angular-identity": "git@github.com:digitalbazaar/bedrock-angular-identity#master",
     "bedrock-angular-identity-composer": "git@github.com:digitalbazaar/bedrock-angular-identity-composer#master",
