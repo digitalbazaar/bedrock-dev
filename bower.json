@@ -27,6 +27,7 @@
   "cloneRepos": {
     "bedrock-angular": "git@github.com:digitalbazaar/bedrock-angular#master",
     "bedrock-angular-alert": "git@github.com:digitalbazaar/bedrock-angular-alert#master",
+    "bedrock-angular-agreement": "git@github.com:digitalbazaar/bedrock-angular-agreement#master",
     "bedrock-angular-authn": "git@github.com:digitalbazaar/bedrock-angular-authn#master",
     "bedrock-angular-credential": "git@github.com:digitalbazaar/bedrock-angular-credential#master",
     "bedrock-angular-filters": "git@github.com:digitalbazaar/bedrock-angular-filters#master",
