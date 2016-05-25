@@ -40,6 +40,7 @@
     "bedrock-mail": "git@github.com:digitalbazaar/bedrock-mail#master",
     "bedrock-messages": "git@github.com:digitalbazaar/bedrock-messages#master",
     "bedrock-messages-client": "git@github.com:digitalbazaar/bedrock-messages-client#master",
+    "bedrock-messages-client-http": "git@github.com:digitalbazaar/bedrock-messages-client-http#master",
     "bedrock-messages-email": "git@github.com:digitalbazaar/bedrock-messages-email#master",
     "bedrock-messages-push": "git@github.com:digitalbazaar/bedrock-messages-push#master",
     "bedrock-mongodb": "git@github.com:digitalbazaar/bedrock-mongodb#master",
