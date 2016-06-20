@@ -44,6 +44,7 @@
     "bedrock-messages-email": "git@github.com:digitalbazaar/bedrock-messages-email#master",
     "bedrock-messages-push": "git@github.com:digitalbazaar/bedrock-messages-push#master",
     "bedrock-mongodb": "git@github.com:digitalbazaar/bedrock-mongodb#master",
+    "bedrock-notifications": "git@github.com:digitalbazaar/bedrock-notifications#master",
     "bedrock-passport": "git@github.com:digitalbazaar/bedrock-passport#master",
     "bedrock-permission": "git@github.com:digitalbazaar/bedrock-permission#master",
     "bedrock-permission-http": "git@github.com:digitalbazaar/bedrock-permission-http#master",
