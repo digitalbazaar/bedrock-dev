@@ -46,6 +46,7 @@
     "bedrock-angular-paging": "git@github.com:digitalbazaar/bedrock-angular-paging#master",
     "bedrock-angular-resolver": "git@github.com:digitalbazaar/bedrock-angular-resolver#master",
     "bedrock-angular-resource": "git@github.com:digitalbazaar/bedrock-angular-resource#master",
+    "bedrock-angular-searchbox": "git@github.com:digitalbazaar/bedrock-angular-searchbox#master",    
     "bedrock-angular-selector": "git@github.com:digitalbazaar/bedrock-angular-selector#master",
     "bedrock-angular-session": "git@github.com:digitalbazaar/bedrock-angular-session#master",
     "bedrock-angular-ui": "git@github.com:digitalbazaar/bedrock-angular-ui#master",
