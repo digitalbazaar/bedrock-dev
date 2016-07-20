@@ -32,7 +32,7 @@
     "bedrock-express": "git@github.com:digitalbazaar/bedrock-express#master",
     "bedrock-i18n": "git@github.com:digitalbazaar/bedrock-i18n#master",
     "bedrock-identity": "git@github.com:digitalbazaar/bedrock-identity#master",
-    "bedrock-identity-rest": "git@github.com:digitalbazaar/bedrock-identity-rest#master",
+    "bedrock-identity-http": "git@github.com:digitalbazaar/bedrock-identity-http#master",
     "bedrock-idp": "git@github.com:digitalbazaar/bedrock-idp#master",
     "bedrock-issuer": "git@github.com:digitalbazaar/bedrock-issuer#master",
     "bedrock-jobs": "git@github.com:digitalbazaar/bedrock-jobs#master",
