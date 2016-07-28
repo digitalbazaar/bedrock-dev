@@ -20,6 +20,7 @@
     "bedrock": "git@github.com:digitalbazaar/bedrock#master",
     "bedrock-agreement": "git@github.com:digitalbazaar/bedrock-agreement#master",
     "bedrock-agreement-http": "git@github.com:digitalbazaar/bedrock-agreement-http#master",
+    "bedrock-assistant": "git@github.com:digitalbazaar/bedrock-assistant#master",
     "bedrock-authn-did": "git@github.com:digitalbazaar/bedrock-authn-did#master",
     "bedrock-authn-password": "git@github.com:digitalbazaar/bedrock-authn-password#master",
     "bedrock-consumer": "git@github.com:digitalbazaar/bedrock-consumer#master",
