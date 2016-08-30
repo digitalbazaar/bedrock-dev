@@ -24,6 +24,7 @@
     "bedrock-authn-did": "git@github.com:digitalbazaar/bedrock-authn-did#master",
     "bedrock-authn-password": "git@github.com:digitalbazaar/bedrock-authn-password#master",
     "bedrock-consumer": "git@github.com:digitalbazaar/bedrock-consumer#master",
+    "bedrock-container": "git@github.com:digitalbazaar/bedrock-container.git",
     "bedrock-credential-curator": "git@github.com:digitalbazaar/bedrock-credential-curator#master",
     "bedrock-credentials-mongodb": "git@github.com:digitalbazaar/bedrock-credentials-mongodb#master",
     "bedrock-credential-notifications": "git@github.com:digitalbazaar/bedrock-credential-notifications#master",
