@@ -59,6 +59,7 @@
     "bedrock-server": "git@github.com:digitalbazaar/bedrock-server#master",
     "bedrock-session-mongodb": "git@github.com:digitalbazaar/bedrock-session-mongodb#master",
     "bedrock-session-http": "git@github.com:digitalbazaar/bedrock-session-http#master",
+    "bedrock-test": "git@github.com:digitalbazaar/bedrock-test#master",
     "bedrock-validation": "git@github.com:digitalbazaar/bedrock-validation#master",
     "bedrock-views": "git@github.com:digitalbazaar/bedrock-views#master"
   },
