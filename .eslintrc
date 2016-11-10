@@ -15,7 +15,7 @@
       "switch": {"after": false},
       "while": {"after": false}
       }}],
-    "indent": ["error", 2, {"SwitchCase": 1}],
+    "indent": ["error", 2, {"SwitchCase": 1, "FunctionExpression": {"parameters": 1}, "CallExpression": {"arguments": 1}}],
     "linebreak-style": ["error", "unix"],
     "max-len": ["error", 80],
     "no-extra-semi": "error",
