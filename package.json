@@ -1,6 +1,6 @@
 {
   "name": "bedrock-dev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "scripts": {
     "start": "node index.js",
@@ -22,6 +22,7 @@
     "bedrock-agreement-http": "git@github.com:digitalbazaar/bedrock-agreement-http#master",
     "bedrock-assistant": "git@github.com:digitalbazaar/bedrock-assistant#master",
     "bedrock-authn-did": "git@github.com:digitalbazaar/bedrock-authn-did#master",
+    "bedrock-authn-did-jwt": "git@github.com:digitalbazaar/bedrock-authn-did-jwt#master",
     "bedrock-authn-password": "git@github.com:digitalbazaar/bedrock-authn-password#master",
     "bedrock-consumer": "git@github.com:digitalbazaar/bedrock-consumer#master",
     "bedrock-container": "git@github.com:digitalbazaar/bedrock-container.git",
