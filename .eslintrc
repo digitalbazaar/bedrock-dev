@@ -3,9 +3,15 @@
     "es6": true,
     "node": true
   },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
   "rules": {
     "arrow-spacing": "error",
+    "block-spacing": ["error", "never"],
     "comma-dangle": ["error", "never"],
+    "curly": "error",
     "eol-last": "error",
     "key-spacing": ["error", {"beforeColon": false, "afterColon": true}],
     "keyword-spacing": ["error", {"overrides": {
@@ -34,7 +40,7 @@
     "no-trailing-spaces": "error",
     "no-undef": "error",
     "no-unused-vars": "error",
-    "object-curly-spacing": ["error", "never"],
+    "object-curly-spacing": "error",
     "semi": ["error", "always"],
     "semi-spacing": "error",
     "space-before-blocks": "error",
