@@ -4,7 +4,7 @@
     "node": true
   },
   "parserOptions": {
-    "ecmaVersion": 6,
+    "ecmaVersion": 2017,
     "sourceType": "module"
   },
   "rules": {
@@ -49,7 +49,6 @@
     "space-before-blocks": "error",
     "space-before-function-paren": ["error", "never"],
     "space-infix-ops": "error",
-    "space-in-parens": ["error", "never"],
-    "spaced-comment": ["error", "always", {"block": {"markers": ["!"]}}]
+    "space-in-parens": ["error", "never"]
   }
 }
