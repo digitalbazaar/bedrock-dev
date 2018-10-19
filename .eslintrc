@@ -44,6 +44,7 @@
     "no-trailing-spaces": "error",
     "no-undef": "error",
     "no-unused-vars": "error",
+    "no-use-before-define": ["error", { "functions": false, "classes": true }],   
     "no-var": "error",
     "object-curly-spacing": "error",
     "object-shorthand": ["error", "properties"],
